@@ -1,0 +1,2 @@
+!pip install yt_dlp openai-whisper google-generativeai weasyprint markdown
+!apt-get install -y ffmpeg
